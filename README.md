@@ -13,21 +13,9 @@ Para ejecutar el programa, usa el siguiente comando desde alguna terminal:
 python HolaMundo.py
 ```
 
-
 ## Comandos utilizados en la práctica
 - `git init`: Inicializa el repositorio.
 - `git add <archivo>`: Añade un archivo al área de preparación.
-- `git commit -m "<mensaje>"`: Realiza un commit con un mensaje descriptivo.
-- `git status`: Verifica el estado del repositorio.
-- `git remote add origin <URL>`: Conecta el repositorio local con un repositorio remoto.
-- `git push -u origin main`: Sube los cambios al repositorio remoto.
-
-## Notas sobre el archivo .gitignore
-- El archivo `.gitignore` se creó para excluir archivos que no deberían ser rastreados en el repositorio, como archivos de registro o depuración.
-
-## Comandos utilizados
-- `git init`: Inicializa el repositorio.
-- `git add <archivo>`: Añade un archivo al área de preparación (staging).
 - `git commit -m "<mensaje>"`: Realiza un commit con un mensaje descriptivo.
 - `git status`: Verifica el estado del repositorio.
 - `git remote add origin <URL>`: Conecta el repositorio local con un repositorio remoto.
